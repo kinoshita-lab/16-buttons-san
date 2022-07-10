@@ -5,6 +5,13 @@
   )
 
   (paper "A3")
+  (title_block
+    (title "16-buttons-san")
+    (date "2022-07-10")
+    (rev "1")
+    (company "Kinoshita Laboratory")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
@@ -2595,6 +2602,15 @@
     )
     (format (units 3) (units_format 1) (precision 4))
     (style (thickness 0.1) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
+  )
+  (dimension (type aligned) (layer "User.7") (tstamp 7f89e1c4-0744-4762-a954-4fcd631fb33c)
+    (pts (xy 238.62 81.51) (xy 238.62 104.11))
+    (height -10.5)
+    (gr_text "22.6000 mm" (at 247.97 92.81 90) (layer "User.7") (tstamp 85a60aa7-9dc2-4bd7-82aa-d357591bbd20)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (format (units 3) (units_format 1) (precision 4))
+    (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
   )
 
   (segment (start 93.9875 96.31) (end 93.9875 97.33) (width 0.2) (layer "F.Cu") (net 1) (tstamp 02dabb93-ad57-4c17-b03d-2f7f565e9282))
