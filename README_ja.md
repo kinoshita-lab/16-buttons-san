@@ -12,7 +12,7 @@
 
 ## 組みたてかた
 
-Solder the included 1x05 pin socket into the following place below:
+赤い枠でかこまれた部分に、付属の1x05のピンソケットをはんだづけします。
 ![](./img/fig.png)
 
 ## サンプルプログラム
