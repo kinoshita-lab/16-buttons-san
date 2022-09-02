@@ -16,5 +16,5 @@ Solder the included 1x05 pin socket into the following place below:
 
 ## Sample program
 
-Please refer to the exapmles/Siple
+Please refer to the exapmles/Simple
 <https://github.com/kinoshita-lab/16-buttons-san/tree/main/software/examples/Simple>
