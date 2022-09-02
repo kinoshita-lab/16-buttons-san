@@ -7,7 +7,7 @@
 ## Kit contents
 
 - Pre-assembled circuit board
-- 1x3 pin socket
+- 1x5 pin socket
 
 ## How to assemble
 
