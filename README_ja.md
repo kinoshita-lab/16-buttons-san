@@ -17,7 +17,7 @@
 
 ## サンプルプログラム
 
-exapmles/Siple にあるコードを参考にしてください。
+exapmles/Simple にあるコードを参考にしてください。
 <https://github.com/kinoshita-lab/16-buttons-san/tree/main/software/examples/Simple>
 
 簡単な例ですが、クラスライブラリを添付しています。
