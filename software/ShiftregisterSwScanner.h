@@ -46,6 +46,7 @@ namespace kinoshita_lab {
       scan_buffers_ = new uint8_t[num_switches_];
       former_scan_buffers_ = new uint8_t[num_switches_];
       switch_status_ = new uint8_t[num_switches_];
+      scan_period_ = scan_period;
 
       // initialize switch status
       for (auto i = 0u; i < num_switches_; ++i) {
